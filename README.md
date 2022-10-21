@@ -1,7 +1,7 @@
 <h1 align="center"> Tela Login LOL Criada em estudo </h1>
 
 <h3 align="center">
-  <a href="https://telaloginlol.vercel.app" target="_blank">Acesse Meu App</a>
+  <a href="https://telaloginlol.vercel.app">Acesse Meu App</a>
 </h3>
 
 <h4 align="center">Com os mesmos efeitos que existem no App original, tanto nas caixas de input, botões, checkbox, movimentos etc.</h4>
